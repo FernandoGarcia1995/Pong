@@ -8,3 +8,5 @@ Bugs
 - La pelota desaparece cuando esta llega a una esquina
 - el jugador controlado por el ordenador nunca falla ( sigue la y de la pelota)
 - no es posible marcar al jugador 2.
+
+<img>https://i.imgur.com/I4CbwR6.jpg</img>
