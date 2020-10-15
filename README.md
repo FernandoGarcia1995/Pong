@@ -9,4 +9,6 @@ Bugs
 - el jugador controlado por el ordenador nunca falla ( sigue la y de la pelota)
 - no es posible marcar al jugador 2.
 
-<img>https://i.imgur.com/I4CbwR6.jpg</img>
+<img></img>
+
+![Alt text](https://i.imgur.com/I4CbwR6.jpg "Pong")
