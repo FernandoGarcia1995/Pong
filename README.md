@@ -1,5 +1,5 @@
 # Pong
-Pong Unfininished ( Pong sin finalizar) - Realizado por Fernando Garcia Achaques
+Pong Unfininished ( Pong sin finalizar) - por Fernando Garcia Achaques
 
 Proyecto sin finalizar , realizado para el aprendizaje y uso de de Java Swing
 
